@@ -1,0 +1,3 @@
+http://search.cpan.org/~bdfoy/HTML-SimpleLinkExtor-1.27/lib/HTML/SimpleLinkExtor.pm
+http://stackoverflow.com/questions/17859811/htmlsimplelinkextor-is-changing-%C3%87-to-c7-on-a-link/17860193
+https://ilearn.marist.edu/portal

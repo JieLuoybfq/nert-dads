@@ -1,0 +1,6 @@
+sudo perl -MCPAN -e 'install Bundle::LWP'
+sudo perl -MCPAN -e 'install HTML::SimpleLinkExtor'
+sudo perl -MCPAN -e 'install HTTP::DAV'
+sudo perl -MCPAN -e 'install Switch'
+sudo perl -MCPAN -e 'install Date::Leapyear'
+sudo perl -MCPAN -e 'install Config::Simple'

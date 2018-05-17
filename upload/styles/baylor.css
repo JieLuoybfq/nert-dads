@@ -1,0 +1,46 @@
+body {
+  background: #f5002e;
+}
+
+div#body_wrapper {
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  border: thick solid black;
+  background: white;
+}
+
+div#baylor_header {
+  border-bottom: thin solid #f5002e;
+  margin: 0;
+  padding: 0;
+  height: 70px;
+}
+
+div#baylor_header * {
+  float: left;
+  background: white;
+}
+
+div#ecs {
+  font-size: 20px;
+  font-family: arial, verdana, helvetica, sans-serif;
+  color: #f5002e;
+  display: block;
+  padding: 25px 0px 0px 12px;
+  margin: 0px 0px 0px 0px;
+  height: 45px;
+  line-height: 22px;
+  width: 78%;
+  background: white;
+}
+
+div#blackbar {
+  background: white;
+  height: 5px;
+  width: 100%;
+}
+
+div#example {
+  text-align: center;
+}
