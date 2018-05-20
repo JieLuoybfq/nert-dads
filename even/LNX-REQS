@@ -1,0 +1,6 @@
+sudo apt install build-essential -y 
+sudo apt install autoconf -y 
+sudo apt install automake -y 
+sudo apt install libtool -y 
+sudo apt install gdb -y
+
